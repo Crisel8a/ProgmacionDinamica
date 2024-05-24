@@ -1,2 +1,99 @@
-# ProgmacionDinamica
-https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+<h1 align="center">
+  <a href="#">
+    Programación Dinámica
+  </a>
+</h1>
+
+<p align="center">
+  <strong>Sobre el temario de un un primer curso de Investigación de Operaciones.</strong><br>
+  @IPN-ESFM-Crisel Escalante 2024
+</p>
+
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    </a>
+  <a href="#">
+        <img src="(https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />
+    </a>
+  <a href="#">
+        <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+    </a>
+  <a href="#">
+        <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+    </a>
+  <a href="#">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+    </a>
+</p>
+
+
+**Varias cosas que aprendí en este curso las pude programar con ayuda de R y Python. Como bibliografía usamos el libro de Luis Rincón "Introducción a la Probabilidad".  El temario fue algo largo para acomodar todo un un solo notebook así que lo dividí en dos ramas importantes. También agrego un notebook de los mismos temas en R y uno sobre un curso en DataCamp sobre fundamentos de probabilidad con python.**
+
+---
+### ✅ Proba_Clásica
+
+Repasamos diferentes enfoques de la probabilidad y los aplicamos a situaciones cotidianas como lo son juegos, probabilidad de compartir cumpleaños con una persona en un cuarto de n personas, la probabilidad de que ocurriera un sismo el 19 de Septiembre en tres años distintos, etc. Graficamos los resultados con puntos e histogramas. 
+
+
+- Probabilidad clásica
+- Probabilidad frecuentista
+- Probabilidad geométrica 
+- Urnas, barajas, juegos, etc.
+- Ejercicios para simular
+- Ejercicios de la bibliografía
+- Tareas
+
+
+### ✅ Proba_CVAD
+
+CVAD es por Conteo, Variables Aleatorias y Distribuciones. En este segundo notebook pasamos ahora con herramientas que nos ayudarán a sacar otro tipo de probabilidades con otros enfoques. Comenzamos con herramientas de conteo y combinatoria, conocemos las variables aleatorias continuas y discretas así como sus funciones de masa, densidad y disfribución. Finalmente, conocemos distribuciones con nombre propio. 
+
+  - Función Combinatoria
+  - Ejercicios, tareas y exámenes
+  - Distribución Binomial
+  - Distribución Binomial Negativa
+  - Distribución Bernoulli
+  - Distribución Geométrica
+  - Distribución Poisson
+  - Distribución Exponencial
+  - Distribución Normal
+  
+
+### ✅ probafundamentosdc
+
+Rescato los tres capítulos sobre un curso de fundmentos de probabilidad en Data Camp. 
+
+  - Cap 1. 
+    - Lanzando una moneda
+    - Generando una semilla aleatoria
+    - Funciones de masa y distribución
+    - Esperanza, varianza y media aritmética
+    - Distribuciones
+    
+  - Cap 2. 
+    - Independencia
+    - Probabilidad Condicionada
+    - Teorema de Proabilidad Total
+    - Teorema de Bayes
+
+  - Cap 3. 
+    - Distribución Normal
+    - Distribución Poisson
+    - Distribución Geométrica
+
+
+
+
+<p align="center">
+  <strong>¿Cuál es la probabilidad de que ...? -Dedicado a Julio Hernández</strong><br>
+</p>
