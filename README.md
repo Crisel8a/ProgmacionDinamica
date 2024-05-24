@@ -19,7 +19,7 @@
 </p>
 
 
-** - ✅Algoritmo de Dijkstra
-- ✅Problema de mejor ruta.**
+- ✅Algoritmo de Dijkstra
+- ✅Problema de mejor ruta.
 
 ---
